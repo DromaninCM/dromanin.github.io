@@ -95,7 +95,7 @@ p {
 }
 <! this is the orange color:cf8a05 >
 #contactDetails ul li a:hover { 
-	color: #cf3805;
+	color: #0527cf;
 }
 
 
@@ -126,7 +126,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #cf3805;
+	color: #0527cf;
 }
 
 .sectionContent h2 {
